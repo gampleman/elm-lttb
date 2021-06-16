@@ -2,7 +2,7 @@ module Tests exposing (..)
 
 import Expect
 import Fuzz exposing (Fuzzer)
-import LTTB
+import LTTBNew as LTTB
 import Test exposing (..)
 
 
